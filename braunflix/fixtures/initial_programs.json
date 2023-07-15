@@ -1,0 +1,90 @@
+[
+    {
+      "model": "braunflix.program",
+      "pk": 1,
+      "fields": {
+        "title": "Stranger Things",
+        "kind": "T",
+        "release_date": "2016-07-15",
+        "likes": 7864,
+        "dislikes": 465
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 2,
+        "fields": {
+          "title": "The Witcher",
+          "kind": "T",
+          "release_date": "2019-12-20",
+          "likes": 845,
+          "dislikes": 32
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 3,
+        "fields": {
+          "title": "Emily in Paris",
+          "kind": "T",
+          "release_date": "2020-10-02",
+          "likes": 441,
+          "dislikes": 12
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 5,
+        "fields": {
+          "title": "La La Land",
+          "kind": "F",
+          "release_date": "2017-01-13",
+          "likes": 1230,
+          "dislikes": 19
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 6,
+        "fields": {
+          "title": "Avengers: Endgame",
+          "kind": "F",
+          "release_date": "2019-04-25",
+          "likes": 31771,
+          "dislikes": 87
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 7,
+        "fields": {
+          "title": "Captain America",
+          "kind": "F",
+          "release_date": "2011-07-29",
+          "likes": 10340,
+          "dislikes": 127
+      }
+    },
+    {
+        "model": "braunflix.program",
+        "pk": 8,
+        "fields": {
+          "title": "Book of life",
+          "kind": "T",
+          "release_date": "2017-07-20",
+          "likes": 51,
+          "dislikes": 89
+      }
+    },
+    {
+      "model": "braunflix.program",
+      "pk": 9,
+      "fields": {
+        "title": "Saving Private Ryan",
+        "kind": "F",
+        "release_date": "1999-09-05",
+        "likes": 51,
+        "dislikes": 89
+    }
+  }
+  ]
